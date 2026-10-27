@@ -1,5 +1,6 @@
 # Tutorial 3 -Answers
 ## Q1
+```
     import java.util.Scanner;
 
     public class answers {
@@ -29,8 +30,9 @@
         }
       }
     }
-
+```
 ## Q2
+```
     import java.util.Random;
 
     public class answers {
@@ -62,7 +64,9 @@
           System.out.println(number +" is "+ word);
         }
     }
+```
 ## Q3
+```
     import java.util.Scanner;
 
     public class Jawaban {
@@ -87,8 +91,9 @@
         System.out.printf("Commission: %.2f%n", commission);
         }
     }
-    
+```
 ## Q4
+```
     import java.util.Random;
 
     public class answers {
@@ -110,8 +115,9 @@
         }
         }
     }
-
+```
 ## Q5
+```
     import java.util.Scanner;
 
     public class answers {
@@ -128,8 +134,9 @@
             System.out.println("x = " + (e * d - b * f) / k + ", y = " + (a * f - e * c) / k);
       }
     }
-
+```
 ## Q6
+```
     import java.util.Scanner;
 
     public class answers {
@@ -140,3 +147,4 @@
         System.out.println(x * x + y * y <= r * r ? "inside" : "outside");
       }
     }
+```
