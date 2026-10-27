@@ -32,7 +32,7 @@
     }
 ```
 ## Q2
-```
+```java
     import java.util.Random;
 
     public class answers {
@@ -66,7 +66,7 @@
     }
 ```
 ## Q3
-```
+```java
     import java.util.Scanner;
 
     public class Jawaban {
@@ -93,7 +93,7 @@
     }
 ```
 ## Q4
-```
+```java
     import java.util.Random;
 
     public class answers {
@@ -117,7 +117,7 @@
     }
 ```
 ## Q5
-```
+```java
     import java.util.Scanner;
 
     public class answers {
@@ -136,7 +136,7 @@
     }
 ```
 ## Q6
-```
+```java
     import java.util.Scanner;
 
     public class answers {
