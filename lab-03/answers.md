@@ -1,6 +1,6 @@
 # Tutorial 3 -Answers
 ## Q1
-```
+```java
     import java.util.Scanner;
 
     public class answers {
